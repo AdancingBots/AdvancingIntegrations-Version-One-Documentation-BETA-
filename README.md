@@ -1,2 +1,2 @@
 # AdvancingIntegrations-Version-One-Documentation-BETA-
-Welcome to the Documentation! This is where you can get the newest versions, as well as the current build information.
+Welcome to AdvancingIntegrations! We are a new development group on ROBLOX, and we strive to make your lives easier! Want to find out how to accomplish this, PM AdvancingIntergrations on ROBLOx!
